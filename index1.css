@@ -1,0 +1,30 @@
+.navigation {
+  display: grid;
+  grid-template-columns: 80% 20%;
+}
+
+.content-controls {
+  text-align: right;
+}
+
+.form-inline {
+  margin: 0px 14px;
+}
+
+.fa {
+  color: black;
+}
+
+.fas:hover,
+.favorite {
+  color: red;
+}
+
+.card-footer {
+  text-align: center;
+}
+
+.card-body {
+  display: grid;
+  grid-template-columns: 70% 30%;
+}
